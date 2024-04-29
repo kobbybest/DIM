@@ -1,82 +1,162 @@
 title:kobbybest
 
 // Forbearance (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=568611921&perks=1478423395,2822142346,509074078,2396489472,2489430594
 
 
+// Forbearance (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=568611921&perks=509074078,2396489472,2489430594
+
+
 // The Mountaintop (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=568611922&perks=3525010810,3301904089,3300816228,469285294,2489430594
 
 
 // The Mountaintop (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=568611922&perks=3525010810,3301904089,2010801679,4104185692,2489430594
 
 
 // The Mountaintop (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=568611922&perks=3525010810,3301904089,2010801679,1546637391,2489430594
 
 
+// The Mountaintop (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=568611922&perks=3300816228,469285294,2489430594
+
+
+// The Mountaintop (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=568611922&perks=2010801679,4104185692,2489430594
+
+
+// The Mountaintop (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=568611922&perks=2010801679,1546637391,2489430594
+
+
 // Edge Transit (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919,2489430594
 
 
+// Edge Transit (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919,2489430594
+
+
+// Edge Transit (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=568611923&perks=3751912585,3078487919,2489430594
+
+
+// Edge Transit (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=568611923&perks=968510818,3078487919,2489430594
+
+
 // The Recluse (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=1050806815&perks=3250034553,1087426260,4071163871,2109543898,2489430594
 dimwishlist:item=1050806815&perks=3250034553,1968497646,4071163871,2109543898,2489430594
 
 
 // The Recluse (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest Abyssal tags:god-pve
 dimwishlist:item=1050806815&perks=3250034553,1087426260,776531651,2048641572,2489430594
 dimwishlist:item=1050806815&perks=3250034553,1968497646,776531651,2048641572,2489430594
 
 
+// The Recluse (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=1050806815&perks=4071163871,2109543898,2489430594
+
+
+// The Recluse (pve)
+//notes: Kobbybest Abyssal tags:pve
+dimwishlist:item=1050806815&perks=776531651,2048641572,2489430594
+
+
 // Hung Jury SR4 (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=1453235079&perks=1840239774,1087426260,3891536761,3038247973,2489430594
 
 
-// Falling Guillotine (pve,god-pve)
-//notes: tags:pve,god-pve
-dimwishlist:item=1815105249&perks=938542991,269888150,1546637391,3708227201,2489430594
+// Hung Jury SR4 (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=1453235079&perks=3891536761,3038247973,2489430594
 
 
-// Falling Guillotine (pve)
-//notes: tags:pve
+// Falling Guillotine (god-pve)
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=1815105249&perks=938542991,269888150,1749209109,3913600130,2489430594
 
 
-// Falling Guillotine (pve)
-//notes: tags:pve
+// Falling Guillotine (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=1815105249&perks=938542991,269888150,1546637391,3708227201,2489430594
+
+
+// Falling Guillotine (god-pve)
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=1815105249&perks=938542991,269888150,4104185692,3708227201,2489430594
 
 
+// Falling Guillotine (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=1815105249&perks=1749209109,3913600130,2489430594
+
+
+// Falling Guillotine (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=1815105249&perks=1546637391,3708227201,2489430594
+
+
+// Falling Guillotine (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=1815105249&perks=4104185692,3708227201,2489430594
+
+
 // Hammerhead (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=1896309757&perks=1840239774,2420895100,3418782618,557221067,2489430594
 dimwishlist:item=1896309757&perks=1840239774,1087426260,3418782618,557221067,2489430594
 
 
-// Hammerhead (pve)
-//notes: tags:pve
+// Hammerhead (god-pve)
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=1896309757&perks=1840239774,2420895100,3425386926,557221067,2489430594
 dimwishlist:item=1896309757&perks=1840239774,1087426260,3425386926,557221067,2489430594
 
 
-// Hammerhead (pve)
-//notes: tags:pve
+// Hammerhead (god-pve)
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=1896309757&perks=1840239774,2420895100,3425386926,95528736,2489430594
 dimwishlist:item=1896309757&perks=1840239774,1087426260,3425386926,95528736,2489430594
 
 
+// Hammerhead (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=1896309757&perks=3418782618,557221067,2489430594
+
+
+// Hammerhead (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=1896309757&perks=3425386926,557221067,2489430594
+
+
+// Hammerhead (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=1896309757&perks=3425386926,95528736,2489430594
+
+
 // Elsie's Rifle (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest Abyssal tags:god-pve
 dimwishlist:item=2372514509&perks=839105230,1087426260,776531651,2048641572,2489430594
 dimwishlist:item=2372514509&perks=839105230,1968497646,776531651,2048641572,2489430594
 dimwishlist:item=2372514509&perks=3250034553,1087426260,776531651,2048641572,2489430594
@@ -84,7 +164,7 @@ dimwishlist:item=2372514509&perks=3250034553,1968497646,776531651,2048641572,248
 
 
 // Elsie's Rifle (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,2109543898,2489430594
 dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,2109543898,2489430594
 dimwishlist:item=2372514509&perks=3250034553,1087426260,2779035018,2109543898,2489430594
@@ -92,51 +172,101 @@ dimwishlist:item=2372514509&perks=3250034553,1968497646,2779035018,2109543898,24
 
 
 // Elsie's Rifle (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=2372514509&perks=839105230,1087426260,3418782618,2109543898,2489430594
 dimwishlist:item=2372514509&perks=839105230,1968497646,3418782618,2109543898,2489430594
 dimwishlist:item=2372514509&perks=3250034553,1087426260,3418782618,2109543898,2489430594
 dimwishlist:item=2372514509&perks=3250034553,1968497646,3418782618,2109543898,2489430594
 
 
-// Elsie's Rifle (pve)
-//notes: tags:pve
+// Elsie's Rifle (god-pve)
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=2372514509&perks=839105230,1087426260,2779035018,3047969693,2489430594
 dimwishlist:item=2372514509&perks=839105230,1968497646,2779035018,3047969693,2489430594
 dimwishlist:item=2372514509&perks=3250034553,1087426260,2779035018,3047969693,2489430594
 dimwishlist:item=2372514509&perks=3250034553,1968497646,2779035018,3047969693,2489430594
 
 
+// Elsie's Rifle (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2372514509&perks=2779035018,2109543898,2489430594
+
+
+// Elsie's Rifle (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2372514509&perks=3418782618,2109543898,2489430594
+
+
+// Elsie's Rifle (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2372514509&perks=2779035018,3047969693,2489430594
+
+
+// Elsie's Rifle (pve)
+//notes: Kobbybest Abyssal tags:pve
+dimwishlist:item=2372514509&perks=776531651,2048641572,2489430594
+
+
 // Midnight Coup (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest Endgame tags:god-pve
 dimwishlist:item=2763843898&perks=3250034553,1087426260,3038247973,3891536761,2489430594
 
 
-// Midnight Coup (pve)
-//notes: tags:pve
+// Midnight Coup (god-pve)
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=2763843898&perks=3250034553,1087426260,3824105627,2109543898,2489430594
 
 
-// Midnight Coup (pve)
-//notes: tags:pve
+// Midnight Coup (god-pve)
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=2763843898&perks=3250034553,1087426260,3038247973,2109543898,2489430594
 
 
+// Midnight Coup (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2763843898&perks=3824105627,2109543898,2489430594
+
+
+// Midnight Coup (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2763843898&perks=3038247973,2109543898,2489430594
+
+
+// Midnight Coup (pve)
+//notes: Kobbybest Endgame tags:pve
+dimwishlist:item=2763843898&perks=3038247973,3891536761,2489430594
+
+
 // Succession (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,469285294,2489430594
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,469285294,2489430594
 
 
 // Succession (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest tags:god-pve
 dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,1771339417,2489430594
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1771339417,2489430594
 
 
 // Succession (god-pve)
-//notes: tags:god-pve
+//notes: Kobbybest Endgame tags:god-pve
 dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,1546637391,2489430594
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1546637391,2489430594
+
+
+// Succession (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=3612338554&perks=1523832109,469285294,2489430594
+
+
+// Succession (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=3612338554&perks=1523832109,1771339417,2489430594
+
+
+// Succession (pve)
+//notes: Kobbybest Endgame tags:pve
+dimwishlist:item=3612338554&perks=1523832109,1546637391,2489430594
 
 
