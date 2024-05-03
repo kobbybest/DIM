@@ -413,6 +413,7 @@ dimwishlist:item=2372514509&perks=2779035018,3047969693,2489430594
 //notes: Kobbybest Abyssal tags:pve
 dimwishlist:item=2372514509&perks=776531651,2048641572,2489430594
 
+
 // Midnight Coup (god-pve)
 //notes: Kobbybest Endgame tags:god-pve
 dimwishlist:item=2499720827&perks=3250034553,1087426260,3038247973,3891536761,2489430594
@@ -603,3 +604,93 @@ dimwishlist:item=2533990645&perks=3891536761,4104185692,2489430594
 // Blast Furnace (pve)
 //notes: Kobbybest tags:pve
 dimwishlist:item=2533990645&perks=3891536761,4049631843,2489430594
+
+
+// Luna's Howl (god-pve)
+//notes: Kobbybest endgame tags:god-pve
+dimwishlist:item=2763843899&perks=3250034553,1087426260,3828510309,2720533289,2489430594
+dimwishlist:item=2763843899&perks=3250034553,1561002382,3828510309,2720533289,2489430594
+
+
+// Luna's Howl (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=2763843899&perks=3250034553,1087426260,3017780555,2720533289,2489430594
+dimwishlist:item=2763843899&perks=3250034553,1561002382,3017780555,2720533289,2489430594
+
+
+// Luna's Howl (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=2763843899&perks=3250034553,1087426260,3017780555,4293542123,2489430594
+dimwishlist:item=2763843899&perks=3250034553,1561002382,3017780555,4293542123,2489430594
+
+
+// Luna's Howl (god-pve)
+//notes: Kobbybest early => legend tags:god-pve
+dimwishlist:item=2763843899&perks=3250034553,1087426260,1820235745,4293542123,2489430594
+dimwishlist:item=2763843899&perks=3250034553,1561002382,1820235745,4293542123,2489430594
+
+
+// Luna's Howl (pve)
+//notes: Kobbybest endgame tags:pve
+dimwishlist:item=2763843899&perks=3828510309,2720533289,2489430594
+
+
+// Luna's Howl (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2763843899&perks=3017780555,2720533289,2489430594
+
+
+// Luna's Howl (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2763843899&perks=3017780555,4293542123,2489430594
+
+
+// Luna's Howl (pve)
+//notes: Kobbybest early => legend tags:pve
+dimwishlist:item=2763843899&perks=1820235745,4293542123,2489430594
+
+
+// Luna's Howl (god-pve)
+//notes: Kobbybest endgame tags:god-pve
+dimwishlist:item=3757612024&perks=3250034553,1087426260,3828510309,2720533289,2489430594
+dimwishlist:item=3757612024&perks=3250034553,1561002382,3828510309,2720533289,2489430594
+
+
+// Luna's Howl (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=3757612024&perks=3250034553,1087426260,3017780555,2720533289,2489430594
+dimwishlist:item=3757612024&perks=3250034553,1561002382,3017780555,2720533289,2489430594
+
+
+// Luna's Howl (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=3757612024&perks=3250034553,1087426260,3017780555,4293542123,2489430594
+dimwishlist:item=3757612024&perks=3250034553,1561002382,3017780555,4293542123,2489430594
+
+
+// Luna's Howl (god-pve)
+//notes: Kobbybest early => legend tags:god-pve
+dimwishlist:item=3757612024&perks=3250034553,1087426260,1820235745,4293542123,2489430594
+dimwishlist:item=3757612024&perks=3250034553,1561002382,1820235745,4293542123,2489430594
+
+
+// Luna's Howl (pve)
+//notes: Kobbybest endgame tags:pve
+dimwishlist:item=3757612024&perks=3828510309,2720533289,2489430594
+
+
+// Luna's Howl (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=3757612024&perks=3017780555,2720533289,2489430594
+
+
+// Luna's Howl (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=3757612024&perks=3017780555,4293542123,2489430594
+
+
+// Luna's Howl (pve)
+//notes: Kobbybest early => legend tags:pve
+dimwishlist:item=3757612024&perks=1820235745,4293542123,2489430594
+
+
