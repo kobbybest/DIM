@@ -413,20 +413,22 @@ dimwishlist:item=2372514509&perks=2779035018,3047969693,2489430594
 //notes: Kobbybest Abyssal tags:pve
 dimwishlist:item=2372514509&perks=776531651,2048641572,2489430594
 
-
 // Midnight Coup (god-pve)
 //notes: Kobbybest Endgame tags:god-pve
 dimwishlist:item=2499720827&perks=3250034553,1087426260,3038247973,3891536761,2489430594
+dimwishlist:item=2499720827&perks=3250034553,106909392,3038247973,3891536761,2489430594
 
 
 // Midnight Coup (god-pve)
 //notes: Kobbybest tags:god-pve
 dimwishlist:item=2499720827&perks=3250034553,1087426260,3824105627,2109543898,2489430594
+dimwishlist:item=2499720827&perks=3250034553,106909392,3824105627,2109543898,2489430594
 
 
 // Midnight Coup (god-pve)
 //notes: Kobbybest tags:god-pve
 dimwishlist:item=2499720827&perks=3250034553,1087426260,3038247973,2109543898,2489430594
+dimwishlist:item=2499720827&perks=3250034553,106909392,3038247973,2109543898,2489430594
 
 
 // Midnight Coup (pve)
@@ -447,16 +449,19 @@ dimwishlist:item=2499720827&perks=3038247973,3891536761,2489430594
 // Midnight Coup (god-pve)
 //notes: Kobbybest Endgame tags:god-pve
 dimwishlist:item=2763843898&perks=3250034553,1087426260,3038247973,3891536761,2489430594
+dimwishlist:item=2763843898&perks=3250034553,106909392,3038247973,3891536761,2489430594
 
 
 // Midnight Coup (god-pve)
 //notes: Kobbybest tags:god-pve
 dimwishlist:item=2763843898&perks=3250034553,1087426260,3824105627,2109543898,2489430594
+dimwishlist:item=2763843898&perks=3250034553,106909392,3824105627,2109543898,2489430594
 
 
 // Midnight Coup (god-pve)
 //notes: Kobbybest tags:god-pve
 dimwishlist:item=2763843898&perks=3250034553,1087426260,3038247973,2109543898,2489430594
+dimwishlist:item=2763843898&perks=3250034553,106909392,3038247973,2109543898,2489430594
 
 
 // Midnight Coup (pve)
@@ -538,3 +543,63 @@ dimwishlist:item=3612338554&perks=1523832109,1771339417,2489430594
 // Succession (pve)
 //notes: Kobbybest Endgame tags:pve
 dimwishlist:item=3612338554&perks=1523832109,1546637391,2489430594
+
+
+// Blast Furnace (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=2372514508&perks=1482024992,106909392,3891536761,2109543898,2489430594
+
+
+// Blast Furnace (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=2372514508&perks=1482024992,106909392,3891536761,4104185692,2489430594
+
+
+// Blast Furnace (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=2372514508&perks=1482024992,106909392,3891536761,4049631843,2489430594
+
+
+// Blast Furnace (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2372514508&perks=3891536761,2109543898,2489430594
+
+
+// Blast Furnace (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2372514508&perks=3891536761,4104185692,2489430594
+
+
+// Blast Furnace (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2372514508&perks=3891536761,4049631843,2489430594
+
+
+// Blast Furnace (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=2533990645&perks=1482024992,106909392,3891536761,2109543898,2489430594
+
+
+// Blast Furnace (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=2533990645&perks=1482024992,106909392,3891536761,4104185692,2489430594
+
+
+// Blast Furnace (god-pve)
+//notes: Kobbybest tags:god-pve
+dimwishlist:item=2533990645&perks=1482024992,106909392,3891536761,4049631843,2489430594
+
+
+// Blast Furnace (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2533990645&perks=3891536761,2109543898,2489430594
+
+
+// Blast Furnace (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2533990645&perks=3891536761,4104185692,2489430594
+
+
+// Blast Furnace (pve)
+//notes: Kobbybest tags:pve
+dimwishlist:item=2533990645&perks=3891536761,4049631843,2489430594
